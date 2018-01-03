@@ -1,0 +1,20 @@
+{
+  "name": "Portafolio",
+  "version": "1.0.0",
+  "description": "My portfolio web page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Mejias",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.23.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "node-normalize-scss": "^3.0.0"
+  },
+  "dependencies": {
+    "typed.js": "^2.0.6"
+  }
+}
